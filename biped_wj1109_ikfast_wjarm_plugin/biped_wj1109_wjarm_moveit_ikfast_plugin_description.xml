@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<library path="lib/libbiped_wj1109_wjarm_moveit_ikfast_plugin">
+  <class base_class_type="kinematics::KinematicsBase" name="biped_wj1109_wjarm/IKFastKinematicsPlugin" type="biped_wj1109_wjarm::IKFastKinematicsPlugin">
+    <description>IKFast61 plugin for closed-form kinematics of biped_wj1109 wjarm</description>
+  </class>
+</library>
